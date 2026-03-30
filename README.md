@@ -13,7 +13,6 @@ Sou estudante na área de tecnologia, focado em aprender cada vez mais sobre des
 - HTML
 - CSS
 - JavaScript
-- Lógica de programação
 
 ## 📂 Projetos
 
