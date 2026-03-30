@@ -1,19 +1,28 @@
-## Hi there 👋
+# 👋 Olá, eu sou João Vitor!
 
-## 🚀 Funcionalidades
+🎓 Estudante da Unifil em Engenharia de Software  
+📍 Brasil  
+💻 Interessado em tecnologia, programação e desenvolvimento web  
 
-- Estrutura básica de projeto
-- Organização de arquivos
-- Código simples para aprendizado
+## 🚀 Sobre mim
 
-## 🛠️ Tecnologias Utilizadas
+Sou estudante na área de tecnologia, focado em aprender cada vez mais sobre desenvolvimento de sistemas. Tenho interesse em criar projetos práticos, melhorar minha lógica de programação e evoluir minhas habilidades como desenvolvedor.
+
+## 🛠️ Tecnologias que estou aprendendo
 
 - HTML
 - CSS
 - JavaScript
+- Lógica de programação
 
-## 📥 Como executar
+## 📂 Projetos
 
-1. Baixe ou clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/projeto-exemplo.git
+- Em desenvolvimento...
+
+## 📫 Contato
+
+- GitHub: https://github.com/joaomelo11
+
+---
+
+⭐ Sempre buscando evoluir e aprender algo novo!
