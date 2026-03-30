@@ -8,7 +8,7 @@
 
 Sou estudante na área de tecnologia, focado em aprender cada vez mais sobre desenvolvimento de sistemas. Tenho interesse em criar projetos práticos, melhorar minha lógica de programação e evoluir minhas habilidades como desenvolvedor.
 
-## 🛠️ Tecnologias que estou aprendendo
+## 🛠️ Tecnologias que eu já trabalhei
 
 - HTML
 - CSS
