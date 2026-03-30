@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**joaomelo11/joaomelo11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Funcionalidades
 
-Here are some ideas to get you started:
+- Estrutura básica de projeto
+- Organização de arquivos
+- Código simples para aprendizado
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias Utilizadas
+
+- HTML
+- CSS
+- JavaScript
+
+## 📥 Como executar
+
+1. Baixe ou clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/projeto-exemplo.git
