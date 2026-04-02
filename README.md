@@ -16,7 +16,8 @@ Sou estudante na área de tecnologia, focado em aprender cada vez mais sobre des
 
 ## 📂 Projetos
 
-- Em desenvolvimento...
+- LunarEdge: é um site de animes inspirado em plataformas como a Crunchyroll, com foco em navegação simples e visual atrativo.
+Na página inicial, os animes são exibidos em formato de cards, permitindo que o usuário explore os títulos disponíveis de forma organizada. Os cards são criados manualmente, garantindo controle total sobre o conteúdo exibido.
 
 ## 📫 Contato
 
