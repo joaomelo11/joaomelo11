@@ -22,6 +22,7 @@ Na página inicial, os animes são exibidos em formato de cards, permitindo que 
 ## 📫 Contato
 
 - GitHub: https://github.com/joaomelo11
+- Telefone : (43) 98419-2420
 
 ---
 
